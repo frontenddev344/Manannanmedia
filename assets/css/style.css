@@ -302,21 +302,21 @@ fieldset {
   cursor: pointer;
   width: 50%;
   border: none;
-  background: linear-gradient(to top, rgb(25, 43, 194), rgb(0, 117, 255));
+  background: linear-gradient(to top, #192bc2, rgb(0, 117, 255));
   color: #FFF;
   margin: 10px 0 5px;
   padding: 10px;
   border-radius: 20px;
   text-transform: uppercase;
   font-weight: 500;
-  transition: all 0.5s ease-in-out;
-  border: 1px solid transparent;
+  transition: all 0.3s ease-in-out;
+  border: 1px solid #0075ff;
 }
 
  #contact button[type="submit"]:hover {
 background: #fff;
-border-color: #192bc2;
 color: #192bc2;
+border: 1px solid #192bc2;
 } 
 
 
