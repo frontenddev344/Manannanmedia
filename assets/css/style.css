@@ -624,9 +624,14 @@ border: 1px solid #192bc2;
 }
 
 .info p {
-  font-size: 15px;
   font-weight: 600;
   color: #fff;
+}
+.info p a {
+  font-weight: 700;
+  color: #fff;
+  border: 1px solid #fff;
+  padding: 3px;
 }
 
 .buttons {
