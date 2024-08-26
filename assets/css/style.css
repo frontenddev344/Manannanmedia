@@ -344,7 +344,7 @@ border: 1px solid #192bc2;
 
 /*  Banner Section CSS End*/
 .home-page-content-section1 {
-  background-color: #c7e7f1;
+  background-color: #ffeff5;
 }
 
 .home-page-section1-wrapper p {
@@ -455,7 +455,7 @@ border: 1px solid #192bc2;
   margin: 0 auto 20px auto;
 }
 .home-page-content-section3 {
-  background-color: #c7e7f1;
+  background-color: #ffeff5;
 }
 .contact-us-image{
   height: 100%;
@@ -589,7 +589,7 @@ border: 1px solid #192bc2;
 }
 
 .social-icons i:hover {
-  background: linear-gradient(to top, #efcd45, #fccb06);
+  background: linear-gradient(to top, #192bc2, hsl(212, 100%, 50%));
   transform: translateY(2px);
 }
 
