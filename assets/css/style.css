@@ -142,7 +142,7 @@ colors
   border-bottom: solid 2px #fff;
   transition: all 300ms ease-in-out;
   position: absolute;
-  left: 0;
+  right: 0;
   top: 100%;
   width: 0%;
 }
@@ -535,7 +535,7 @@ border: 1px solid #192bc2;
   border-bottom: solid 1px #fff;
   transition: all 300ms ease-in-out;
   position: absolute;
-  left: 0;
+  right: 0;
   top: 100%;
   width: 0%;
 }
