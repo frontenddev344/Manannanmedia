@@ -648,7 +648,7 @@ border: 1px solid #192bc2;
   padding: 8px 0;
   border: 1px solid transparent;
   border-radius: 4px;
-  background-color: #FFF;
+  background-color: #fdc1d7;
   color: #000;
   cursor: pointer;
   transition: all 0.7s ease;
@@ -657,8 +657,7 @@ border: 1px solid #192bc2;
 
 .button:hover {
   border-color: #000;
-  background-color: #fdc1d7;
-  
-}
+  background-color: #FFF;
+ }
 
 /* Cookies CSS End */
