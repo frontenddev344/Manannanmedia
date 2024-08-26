@@ -260,9 +260,10 @@ fieldset {
   border:none;
   background:#192bc2;
   color:#FFF;
-  margin:0 0 5px;
+  margin:10px 0 5px;
   padding:10px;
   font-size:15px;
+  border-radius: 20px;
 }
 
 #contact button[type="submit"]:hover {
@@ -270,6 +271,7 @@ fieldset {
   -webkit-transition:background 0.3s ease-in-out;
   -moz-transition:background 0.3s ease-in-out;
   transition:background-color 0.3s ease-in-out;
+
 }
 
 #contact button[type="submit"]:active { box-shadow:inset 0 1px 3px rgba(0, 0, 0, 0.5); }
