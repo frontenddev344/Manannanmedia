@@ -631,7 +631,8 @@ border: 1px solid #192bc2;
   font-weight: 700;
   color: #fff;
   border: 1px solid #fff;
-  padding: 3px;
+  padding: 5px;
+  border-radius: 5px;
 }
 
 .buttons {
