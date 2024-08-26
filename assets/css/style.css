@@ -26,7 +26,6 @@
   h5,
   h6 {
     font-family: "Poppins", sans-serif;
-    font-weight: 700;
   }
   
   p {
@@ -75,8 +74,7 @@
 colors
 #03045e 
 #192bc2
-#118ab2
-
+#0075ff
 */
 
   /* Global CSS End */
@@ -175,6 +173,18 @@ background-color: #192bc2;
 
 /* Header CSS End */
 
+/* Span CSS Start */
+span.heading-blue{
+  color: #0075ff;
+}
+/* Span CSS End */
+
+/* Section Heading CSS Start */
+h2.section-heading {
+  font-size: 45px;
+}
+/* Section Heading CSS Start */
+
 /* Banner Section CSS Start */
 .banner{
   max-width: 2560px;
@@ -199,7 +209,7 @@ color: #fff;
 
 .btn-get-started{
   color: #fff;
-  background: linear-gradient(to right,#192bc2 ,#4d5be0);
+  background: linear-gradient(to top,#192bc2 ,#0075ff);
   padding: 10px 30px;
   border-radius: 20px;
   text-transform: uppercase;
@@ -217,10 +227,9 @@ color: #fff;
 }
 
 #contact h3 {
-  color: #192bc2;
+  color: #0075ff;
   display: block;
-  font-size: 30px;
-  font-weight: 700;
+  font-size: 35px;
   margin-bottom: 50px;
 }
 
@@ -236,6 +245,7 @@ fieldset {
   min-width: 100%;
   padding: 0;
   width: 100%;
+
 }
 
 #contact input[type="text"], #contact input[type="email"], #contact input[type="tel"], #contact input[type="url"], #contact textarea {
@@ -244,6 +254,7 @@ fieldset {
   background:#FFF;
   margin:0 0 5px;
   padding:10px;
+  border-radius: 5px;
 }
 
 #contact input[type="text"]:hover, #contact input[type="email"]:hover, #contact input[type="tel"]:hover, #contact input[type="url"]:hover, #contact textarea:hover {
@@ -259,7 +270,7 @@ fieldset {
   cursor:pointer;
   width:50%;
   border:none;
-  background: linear-gradient(to right,#192bc2 ,#4d5be0);
+  background: linear-gradient(to top,rgb(25, 43, 194) ,rgb(0, 117, 255));
   color:#FFF;
   margin:10px 0 5px;
   padding:10px;
@@ -296,11 +307,37 @@ fieldset {
  color:#888;
 }
 
-
-
 /*  Banner Section CSS End*/
+.home-page-section-icon-cards{
+  box-shadow: rgba(25, 43, 194, 0.25) 0px 20px 30px -20px, rgba(25, 43, 194, 0.3) 0px 30px 30px -30px,rgba(25, 43, 194, 0.35) 0px -2px 6px 0px inset;
+   padding: 40px 20px;
+  border-radius: 10px;
+  min-height: 440px;
+}
+.s1-card-icons{
+  color: #0075ff;
+  font-size: 35px;
+  margin-bottom: 30px;
+  animation: beat 1.7s ease-in-out infinite;
+}
+@keyframes beat {
 
+  0%,
+  100% {
+    transform: scale(1);
+  }
 
+  50% {
+    transform: scale(1.2);
+  }
+}
+.home-page-section-icon-cards h3 {
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+.home-page-section-icon-cards p {
+  font-weight: 500;
+}
 
 
 
