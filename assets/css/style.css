@@ -35,7 +35,7 @@ p {
   line-height: 1.5;
   padding: 0;
   margin: 0;
-  font-weight:600;
+  font-weight: 600;
 }
 
 ul {
@@ -131,7 +131,7 @@ colors
   text-transform: capitalize;
   line-height: normal;
   font-weight: 500;
-font-size: 18px;
+  font-size: 18px;
 }
 
 
@@ -266,10 +266,11 @@ fieldset {
   padding: 0;
   width: 100%;
 }
+
 #contact textarea {
-	height:100px;
-	max-width:100%;
-  resize:none;
+  height: 100px;
+  max-width: 100%;
+  resize: none;
 }
 
 #contact input[type="text"],
@@ -313,11 +314,11 @@ fieldset {
   border: 1px solid #0075ff;
 }
 
- #contact button[type="submit"]:hover {
-background: #fff;
-color: #192bc2;
-border: 1px solid #192bc2;
-} 
+#contact button[type="submit"]:hover {
+  background: #fff;
+  color: #192bc2;
+  border: 1px solid #192bc2;
+}
 
 
 #contact input:focus,
@@ -419,6 +420,7 @@ border: 1px solid #192bc2;
 .home-page-section2-cards-image {
   height: 100%;
   width: 100%;
+  height: 320px;
 }
 
 .home-page-section2-cards-image img {
@@ -438,7 +440,7 @@ border: 1px solid #192bc2;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background-color: rgba(0 0 0/60%);
+  background-color: rgba(0 0 0/70%);
   background-blend-mode: multiply;
 }
 
@@ -455,21 +457,24 @@ border: 1px solid #192bc2;
   font-weight: 600;
   margin: 0 auto 20px auto;
 }
+
 .home-page-content-section3 {
   background-color: #ffeff5;
 }
-.contact-us-image{
+
+.contact-us-image {
   height: 100%;
   width: 100%;
   overflow: hidden;
 }
 
-.contact-us-image img{
+.contact-us-image img {
   height: 100%;
   width: 100%;
-  object-fit:cover;
+  object-fit: cover;
 }
-.contact-us-form{
+
+.contact-us-form {
   height: 100%;
   width: 100%;
 }
@@ -509,7 +514,7 @@ border: 1px solid #192bc2;
   font-size: 50px;
   font-weight: 700;
   margin-bottom: 12px;
-  color:#fff;
+  color: #fff;
 }
 
 .footer-items .social-icons {
@@ -590,7 +595,7 @@ border: 1px solid #192bc2;
 }
 
 .social-icons i:hover {
-  background: linear-gradient(45deg, #192bc2,#0075ff);
+  background: linear-gradient(45deg, #192bc2, #0075ff);
   transform: translateY(2px);
 }
 
@@ -628,6 +633,7 @@ border: 1px solid #192bc2;
   font-weight: 600;
   color: #fff;
 }
+
 .info p a {
   font-weight: 700;
   color: #fff;
@@ -659,6 +665,6 @@ border: 1px solid #192bc2;
 .button:hover {
   border-color: #000;
   background-color: #FFF;
- }
+}
 
 /* Cookies CSS End */
