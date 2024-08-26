@@ -131,7 +131,7 @@ colors
   text-transform: capitalize;
   line-height: normal;
   font-weight: 500;
-  position: relative;
+font-size: 18px;
 }
 
 
@@ -364,6 +364,7 @@ border: 1px solid #192bc2;
 .home-page-s1-cards-image {
   height: 100%;
   width: 100%;
+  min-height: 270px;
 }
 
 .home-page-s1-cards-image img {
