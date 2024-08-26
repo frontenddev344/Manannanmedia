@@ -590,7 +590,7 @@ border: 1px solid #192bc2;
 }
 
 .social-icons i:hover {
-  background: linear-gradient(to top, #192bc2, hsl(212, 100%, 50%));
+  background: linear-gradient(45deg, #192bc2,#0075ff);
   transform: translateY(2px);
 }
 
