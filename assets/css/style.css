@@ -221,6 +221,7 @@ color: #fff;
   display: block;
   font-size: 30px;
   font-weight: 700;
+  margin-bottom: 50px;
 }
 
 #contact h4 {
@@ -264,6 +265,8 @@ fieldset {
   padding:10px;
   font-size:15px;
   border-radius: 20px;
+  text-transform: uppercase;
+  font-weight: 500;
 }
 
 #contact button[type="submit"]:hover {
