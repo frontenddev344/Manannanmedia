@@ -454,7 +454,9 @@ color: #192bc2;
   font-weight: 600;
   margin: 0 auto 20px auto;
 }
-
+.home-page-content-section3 {
+  background-color: #c7e7f1;
+}
 .contact-us-image{
   height: 100%;
   width: 100%;
