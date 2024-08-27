@@ -252,7 +252,9 @@ h2.section-heading {
 
 
 
-
+.banner #contact{
+  background-color: #fedee9;
+}
 
 #contact {
   background: #F9F9F9;
