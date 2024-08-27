@@ -115,14 +115,25 @@
 	.footer-items h3 {
 		font-size: 30px;
 	}
-		/* Other Pages CSS Start */
-		.pages-banner-image {
-			height: 450px;
-		}
-		.pages-banner-text h1 {
-			font-size: 50px;
-			}
-		/* Other Pages CSS End */
+
+	/* Other Pages CSS Start */
+	.pages-banner-image {
+		height: 450px;
+	}
+
+	.pages-banner-text h1 {
+		font-size: 50px;
+	}
+
+	.terms-conditions-group p,
+	.privacy-policy-group p {
+		font-size: 15px;
+	}
+	.terms-conditions-group ul li, .privacy-policy-group ul li {
+		font-size: 15px;
+}
+
+	/* Other Pages CSS End */
 }
 
 
@@ -225,14 +236,25 @@
 	.footer-items h3 {
 		font-size: 28px;
 	}
-		/* Other Pages CSS Start */
-		.pages-banner-image {
-			height: 350px;
-		}
-		.pages-banner-text h1 {
-			font-size: 45px;
-			}
-		/* Other Pages CSS End */
+
+	/* Other Pages CSS Start */
+	.pages-banner-image {
+		height: 350px;
+	}
+
+	.pages-banner-text h1 {
+		font-size: 45px;
+	}
+
+	.terms-conditions-group p,
+	.privacy-policy-group p {
+		font-size: 14px;
+	}
+	.terms-conditions-group ul li, .privacy-policy-group ul li {
+		font-size: 14px;
+}
+
+	/* Other Pages CSS End */
 }
 
 @media only screen and (max-width : 575px) {
@@ -331,14 +353,25 @@
 	.footer-items h3 {
 		font-size: 26px;
 	}
-		/* Other Pages CSS Start */
-		.pages-banner-image {
-			height: 300px;
-		}
-		.pages-banner-text h1 {
-			font-size: 40px;
-			}
-		/* Other Pages CSS End */
+
+	/* Other Pages CSS Start */
+	.pages-banner-image {
+		height: 300px;
+	}
+
+	.pages-banner-text h1 {
+		font-size: 40px;
+	}
+
+	.terms-conditions-group p,
+	.privacy-policy-group p {
+		font-size: 13px;
+	}
+	.terms-conditions-group ul li, .privacy-policy-group ul li {
+		font-size: 13px;
+}
+
+	/* Other Pages CSS End */
 
 }
 
@@ -450,8 +483,18 @@
 	.pages-banner-image {
 		height: 250px;
 	}
+
 	.pages-banner-text h1 {
 		font-size: 35px;
-		}
+	}
+
+	.terms-conditions-group p,
+	.privacy-policy-group p {
+		font-size: 12px;
+	}
+	.terms-conditions-group ul li, .privacy-policy-group ul li {
+			font-size: 12px;
+	}
+
 	/* Other Pages CSS End */
 }
