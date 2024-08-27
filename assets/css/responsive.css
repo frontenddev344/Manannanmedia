@@ -146,6 +146,18 @@
 			font-size: 16px;
 		}
 	/* Other Pages CSS End */
+
+	   /* Cookies CSS Start */
+	   .info p {
+        font-size: 14px;
+    }
+
+    .button {
+        width: calc(55% / 2 - 10px);
+        font-size: 14px;
+    }
+
+    /* Cookies CSS End */
 }
 
 
@@ -279,6 +291,22 @@
 			font-size: 15px;
 		}
 	/* Other Pages CSS End */
+
+	   /* Cookies CSS Start */
+	   .wrapper {
+        padding: 20px 10px;
+    }
+
+    .info p {
+        font-size: 13px;
+    }
+
+    .button {
+        font-size: 13px;
+        padding: 6px;
+    }
+
+    /* Cookies CSS End */
 }
 
 @media only screen and (max-width : 575px) {
@@ -408,6 +436,18 @@
 			font-size: 14px;
 		}
 	/* Other Pages CSS End */
+
+	   /* Cookies CSS Start */
+	   .info p {
+        font-size: 13px;
+    }
+
+    .button {
+        width: calc(50% / 2 - 10px);
+        font-size: 13px;
+    }
+
+    /* Cookies CSS End */
 
 }
 
@@ -545,4 +585,20 @@
 			font-size: 13px;
 		}
 	/* Other Pages CSS End */
+
+	    /* Cookies CSS Start */
+		.info p {
+			font-size: 12px;
+		}
+	
+		.buttons {
+			gap: 10px;
+		}
+	
+		.button {
+			width: calc(80% / 2 - 10px);
+			font-size: 13px;
+		}
+	
+		/* Cookies CSS End */
 }
