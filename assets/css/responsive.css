@@ -129,10 +129,22 @@
 	.privacy-policy-group p {
 		font-size: 15px;
 	}
-	.terms-conditions-group ul li, .privacy-policy-group ul li {
-		font-size: 15px;
-}
 
+	.terms-conditions-group ul li,
+	.privacy-policy-group ul li {
+		font-size: 15px;
+	}
+
+	.terms-conditions-group h4,
+	.privacy-policy-group h4 {
+		font-size: 22px;
+	}
+	.terms-conditions-group h3, .privacy-policy-group h3 {
+		font-size: 31px;
+		}
+		.terms-conditions-group p a, .privacy-policy-group p a {
+			font-size: 16px;
+		}
 	/* Other Pages CSS End */
 }
 
@@ -250,10 +262,22 @@
 	.privacy-policy-group p {
 		font-size: 14px;
 	}
-	.terms-conditions-group ul li, .privacy-policy-group ul li {
-		font-size: 14px;
-}
 
+	.terms-conditions-group ul li,
+	.privacy-policy-group ul li {
+		font-size: 14px;
+	}
+
+	.terms-conditions-group h4,
+	.privacy-policy-group h4 {
+		font-size: 20px;
+	}
+	.terms-conditions-group h3, .privacy-policy-group h3 {
+		font-size: 29px;
+		}
+		.terms-conditions-group p a, .privacy-policy-group p a {
+			font-size: 15px;
+		}
 	/* Other Pages CSS End */
 }
 
@@ -367,10 +391,22 @@
 	.privacy-policy-group p {
 		font-size: 13px;
 	}
-	.terms-conditions-group ul li, .privacy-policy-group ul li {
-		font-size: 13px;
-}
 
+	.terms-conditions-group ul li,
+	.privacy-policy-group ul li {
+		font-size: 13px;
+	}
+
+	.terms-conditions-group h4,
+	.privacy-policy-group h4 {
+		font-size: 18px;
+	}
+	.terms-conditions-group h3, .privacy-policy-group h3 {
+		font-size: 27px;
+		}
+		.terms-conditions-group p a, .privacy-policy-group p a {
+			font-size: 14px;
+		}
 	/* Other Pages CSS End */
 
 }
@@ -492,9 +528,21 @@
 	.privacy-policy-group p {
 		font-size: 12px;
 	}
-	.terms-conditions-group ul li, .privacy-policy-group ul li {
-			font-size: 12px;
+
+	.terms-conditions-group ul li,
+	.privacy-policy-group ul li {
+		font-size: 12px;
 	}
 
+	.terms-conditions-group h4,
+	.privacy-policy-group h4 {
+		font-size: 16px;
+	}
+	.terms-conditions-group h3, .privacy-policy-group h3 {
+		font-size: 25px;
+		}
+		.terms-conditions-group p a, .privacy-policy-group p a {
+			font-size: 13px;
+		}
 	/* Other Pages CSS End */
 }
