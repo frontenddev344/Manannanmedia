@@ -19,7 +19,6 @@ html {
 
 body {
   font-family: "Raleway", sans-serif;
-  overflow-x: hidden;
 }
 
 h1,
@@ -169,8 +168,7 @@ colors
 
 .menu-icon {
   display: none;
-  color: #efcd45;
-  width: 30px;
+  color: #fff;
   text-align: right;
   cursor: pointer;
   margin: auto 0;
@@ -209,7 +207,8 @@ h2.section-heading {
   height: 650px;
   background-color: rgba(0 0 0/70%);
   background-blend-mode: multiply;
-  padding: 200px 0
+  padding: 200px 0;
+  overflow: hidden;
 }
 
 .banner-content {
@@ -658,6 +657,7 @@ fieldset {
   opacity: 0;
   transform: translateX(100%);
   text-align: center;
+  overflow: hidden;
 }
 
 @keyframes roll {
