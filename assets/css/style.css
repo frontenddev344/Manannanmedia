@@ -211,6 +211,7 @@ h2.section-heading {
   background-color: rgba(0 0 0/70%);
   background-blend-mode: multiply;
   padding: 200px 0;
+  overflow: hidden;
 }
 
 .banner-wrapper{
@@ -360,6 +361,7 @@ fieldset {
 /*  Banner Section CSS End*/
 .home-page-content-section1 {
   background-color: #ffeff5;
+  overflow: hidden;
 }
 
 .home-page-section1-wrapper p {
@@ -422,7 +424,9 @@ fieldset {
 .home-page-section1-icon-cards p {
   font-weight: 600;
 }
-
+.home-page-content-section2 {
+  overflow: hidden;
+}
 
 
 .home-page-section2-cards {
@@ -474,6 +478,7 @@ fieldset {
 
 .home-page-content-section3 {
   background-color: #ffeff5;
+  overflow: hidden;
 }
 
 .contact-us-image {
