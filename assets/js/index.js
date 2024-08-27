@@ -55,6 +55,9 @@ window.addEventListener('load', executeCodes);
 
 // //Cookies JS Start
 
-
+// Window will go to top on reload 
+window.onload = function() {
+  window.scrollTo(0, 0);
+};
 
 
