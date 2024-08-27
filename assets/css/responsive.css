@@ -98,6 +98,8 @@
 
 	.home-page-section2-cards-content h3 {
 		font-size: 29px;
+		max-width: 300px;
+		margin: 0 auto;
 	}
 
 	.home-page-section3-wrapper p {
