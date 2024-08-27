@@ -204,15 +204,13 @@ h2.section-heading {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 650px;
   background-color: rgba(0 0 0/70%);
   background-blend-mode: multiply;
   padding: 200px 0;
-  overflow: hidden;
 }
 
-.banner-content {
-  padding: 0 50px;
+.banner-wrapper{
+  padding: 0 25px;
 }
 
 .banner-content h1 {
@@ -242,9 +240,7 @@ h2.section-heading {
 
 
 
-.home-contact-form-section {
-  padding: 0 40px;
-}
+
 
 #contact {
   background: #F9F9F9;
