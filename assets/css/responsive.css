@@ -109,6 +109,9 @@
 	.footer .footer-items ul li a {
 		font-size: 16px;
 	}
+	.footer-items h3 {
+		font-size: 30px;
+	}
 }
 
 
@@ -205,6 +208,9 @@
 	.footer .footer-items ul li a {
 		font-size: 15px;
 	}
+	.footer-items h3 {
+		font-size: 28px;
+	}
 }
 
 @media only screen and (max-width : 575px) {
@@ -296,6 +302,9 @@
 	}
 	.footer .footer-items ul li a {
 		font-size: 14px;
+	}
+	.footer-items h3 {
+		font-size: 26px;
 	}
 
 }
@@ -393,6 +402,9 @@
 	}
 	.footer .footer-items ul li a {
 		font-size: 13px;
+	}
+	.footer-items h3 {
+		font-size: 24px;
 	}
 
 	.copyright p {
