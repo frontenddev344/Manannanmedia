@@ -2,6 +2,7 @@
 	h2.section-heading {
 		font-size: 40px;
 	}
+	
 
 	.main-navbar {
 		position: fixed;
@@ -29,6 +30,9 @@
 		flex-direction: column;
 
 	}
+	.main-navbar ul li a {
+		font-size: 15px;
+		}
 
 	.menu-icon {
 		display: block;
@@ -178,7 +182,9 @@
 		margin-top: 40px;
 		padding: 15px;
 	}
-
+	.main-navbar ul li a {
+		font-size: 15px;
+		}
 	.banner {
 		padding: 100px 0;
 	}
