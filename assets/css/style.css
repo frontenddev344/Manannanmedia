@@ -144,7 +144,7 @@ colors
   color: #fff;
   transition: all 300ms ease-in-out;
   position: absolute;
-  right: 0;
+  left: 0;
   top: 100%;
   width: 0%;
 }
@@ -554,7 +554,7 @@ fieldset {
   border-bottom: solid 1px #fff;
   transition: all 300ms ease-in-out;
   position: absolute;
-  right: 0;
+  left: 0;
   top: 100%;
   width: 0%;
 }
