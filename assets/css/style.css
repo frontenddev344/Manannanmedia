@@ -153,10 +153,11 @@ colors
 .main-navbar ul li a.active:after {
   width: 100%;
   color: #fff;
+  border-bottom: 1px solid #Fff;
 }
 
 .main-navbar ul li a.active {
-  color: #efcd45;
+border-bottom:1px solid #fff ;
 }
 
 .close-icon {

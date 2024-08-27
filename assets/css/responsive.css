@@ -79,7 +79,7 @@
 	#contact button[type="submit"] {
 		padding: 8px 20px;
 		font-size: 14px;
-		width: 60%;
+		width: 45%;
 	}
 
 	.home-page-section1-wrapper p {
@@ -97,7 +97,9 @@
 	.home-page-section2-cards-content h3 {
 		font-size: 29px;
 	}
-
+	.home-page-section3-wrapper p {
+		font-size: 15px;
+	}
 
 }
 
@@ -174,7 +176,12 @@
 	.home-page-section2-cards-content h3 {
 		font-size: 29px;
 	}
-
+	.home-page-section3-wrapper p {
+		font-size: 14px;
+	}
+	.home-page-section3-wrapper #contact button[type="submit"] {
+		width: 30%;
+}
 }
 
 @media only screen and (max-width : 575px) {
@@ -249,6 +256,9 @@
 		max-width: 300px;
 		margin:10px auto;
 	}
+	.home-page-section3-wrapper p {
+		font-size: 13px;
+	}
 
 }
 
@@ -314,5 +324,11 @@
 	.home-page-section2-cards-content p {
 		max-width: 280px;
 		margin:10px auto;
+	}
+	.home-page-section3-wrapper #contact button[type="submit"] {
+			width: 60%;
+	}
+	.home-page-section3-wrapper p {
+		font-size: 12px;
 	}
 }
