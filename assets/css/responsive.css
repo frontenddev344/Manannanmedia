@@ -103,7 +103,12 @@
 	.home-page-section3-wrapper p {
 		font-size: 15px;
 	}
-
+	.copyright p {
+		font-size: 15px;
+	}
+	.footer .footer-items ul li a {
+		font-size: 16px;
+	}
 }
 
 
@@ -194,12 +199,19 @@
 	.home-page-section3-wrapper #contact button[type="submit"] {
 		width: 30%;
 	}
+	.copyright p {
+		font-size: 14px;
+	}
+	.footer .footer-items ul li a {
+		font-size: 15px;
+	}
 }
 
 @media only screen and (max-width : 575px) {
 	h2.section-heading {
 		font-size: 35px;
 	}
+
 	.logo img {
 		max-width: 220px;
 	}
@@ -279,6 +291,12 @@
 	.home-page-section3-wrapper p {
 		font-size: 13px;
 	}
+	.copyright p {
+		font-size: 13px;
+	}
+	.footer .footer-items ul li a {
+		font-size: 14px;
+	}
 
 }
 
@@ -355,6 +373,29 @@
 	}
 
 	.home-page-section3-wrapper p {
+		font-size: 12px;
+	}
+
+	.footer-items {
+		width: 100%;
+		margin-bottom: 30px;
+		text-align: center;
+	}
+
+	.footer-items:last-child {
+		margin-bottom: 0;
+	}
+
+	.social-icons {
+		justify-content: center;
+		padding-left: 0;
+		margin: 10px auto;
+	}
+	.footer .footer-items ul li a {
+		font-size: 13px;
+	}
+
+	.copyright p {
 		font-size: 12px;
 	}
 }
