@@ -367,7 +367,7 @@ fieldset {
 .home-page-s1-cards-image {
   height: 100%;
   width: 100%;
-  min-height: 270px;
+  height: 270px;
 }
 
 .home-page-s1-cards-image img {
