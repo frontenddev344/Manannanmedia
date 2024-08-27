@@ -615,7 +615,7 @@ fieldset {
 }
 
 .social-icons i:hover {
-  background: linear-gradient(45deg, #192bc2, #0075ff);
+  background: linear-gradient(45deg, #0075ff, #9ecdff);
   transform: translateY(2px);
 }
 
