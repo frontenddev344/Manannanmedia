@@ -477,7 +477,9 @@
 	.btn {
 		font-size: 12px;
 	}
-
+	#contact {
+		padding: 20px;
+	}
 
 	#contact h3 {
 		font-size: 30px;
