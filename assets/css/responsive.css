@@ -141,25 +141,30 @@
 	.privacy-policy-group h4 {
 		font-size: 22px;
 	}
-	.terms-conditions-group h3, .privacy-policy-group h3 {
+
+	.terms-conditions-group h3,
+	.privacy-policy-group h3 {
 		font-size: 31px;
-		}
-		.terms-conditions-group p a, .privacy-policy-group p a {
-			font-size: 16px;
-		}
+	}
+
+	.terms-conditions-group p a,
+	.privacy-policy-group p a {
+		font-size: 16px;
+	}
+
 	/* Other Pages CSS End */
 
-	   /* Cookies CSS Start */
-	   .info p {
-        font-size: 14px;
-    }
+	/* Cookies CSS Start */
+	.info p {
+		font-size: 14px;
+	}
 
-    .button {
-        width: calc(55% / 2 - 10px);
-        font-size: 14px;
-    }
+	.button {
+		width: calc(55% / 2 - 10px);
+		font-size: 14px;
+	}
 
-    /* Cookies CSS End */
+	/* Cookies CSS End */
 }
 
 
@@ -288,29 +293,34 @@
 	.privacy-policy-group h4 {
 		font-size: 20px;
 	}
-	.terms-conditions-group h3, .privacy-policy-group h3 {
+
+	.terms-conditions-group h3,
+	.privacy-policy-group h3 {
 		font-size: 29px;
-		}
-		.terms-conditions-group p a, .privacy-policy-group p a {
-			font-size: 15px;
-		}
+	}
+
+	.terms-conditions-group p a,
+	.privacy-policy-group p a {
+		font-size: 15px;
+	}
+
 	/* Other Pages CSS End */
 
-	   /* Cookies CSS Start */
-	   .wrapper {
-        padding: 20px 10px;
-    }
+	/* Cookies CSS Start */
+	.wrapper {
+		padding: 20px 10px;
+	}
 
-    .info p {
-        font-size: 13px;
-    }
+	.info p {
+		font-size: 13px;
+	}
 
-    .button {
-        font-size: 13px;
-        padding: 6px;
-    }
+	.button {
+		font-size: 13px;
+		padding: 6px;
+	}
 
-    /* Cookies CSS End */
+	/* Cookies CSS End */
 }
 
 @media only screen and (max-width : 575px) {
@@ -410,6 +420,11 @@
 		font-size: 26px;
 	}
 
+	.social-icons i {
+		width: 30px;
+		height: 30px;
+	}
+
 	/* Other Pages CSS Start */
 	.pages-banner-image {
 		height: 300px;
@@ -433,25 +448,30 @@
 	.privacy-policy-group h4 {
 		font-size: 18px;
 	}
-	.terms-conditions-group h3, .privacy-policy-group h3 {
+
+	.terms-conditions-group h3,
+	.privacy-policy-group h3 {
 		font-size: 27px;
-		}
-		.terms-conditions-group p a, .privacy-policy-group p a {
-			font-size: 14px;
-		}
+	}
+
+	.terms-conditions-group p a,
+	.privacy-policy-group p a {
+		font-size: 14px;
+	}
+
 	/* Other Pages CSS End */
 
-	   /* Cookies CSS Start */
-	   .info p {
-        font-size: 13px;
-    }
+	/* Cookies CSS Start */
+	.info p {
+		font-size: 13px;
+	}
 
-    .button {
-        width: calc(50% / 2 - 10px);
-        font-size: 13px;
-    }
+	.button {
+		width: calc(50% / 2 - 10px);
+		font-size: 13px;
+	}
 
-    /* Cookies CSS End */
+	/* Cookies CSS End */
 
 }
 
@@ -477,6 +497,7 @@
 	.btn {
 		font-size: 12px;
 	}
+
 	#contact {
 		padding: 20px;
 	}
@@ -584,27 +605,32 @@
 	.privacy-policy-group h4 {
 		font-size: 16px;
 	}
-	.terms-conditions-group h3, .privacy-policy-group h3 {
+
+	.terms-conditions-group h3,
+	.privacy-policy-group h3 {
 		font-size: 25px;
-		}
-		.terms-conditions-group p a, .privacy-policy-group p a {
-			font-size: 13px;
-		}
+	}
+
+	.terms-conditions-group p a,
+	.privacy-policy-group p a {
+		font-size: 13px;
+	}
+
 	/* Other Pages CSS End */
 
-	    /* Cookies CSS Start */
-		.info p {
-			font-size: 12px;
-		}
-	
-		.buttons {
-			gap: 10px;
-		}
-	
-		.button {
-			width: calc(80% / 2 - 10px);
-			font-size: 13px;
-		}
-	
-		/* Cookies CSS End */
+	/* Cookies CSS Start */
+	.info p {
+		font-size: 12px;
+	}
+
+	.buttons {
+		gap: 10px;
+	}
+
+	.button {
+		width: calc(80% / 2 - 10px);
+		font-size: 13px;
+	}
+
+	/* Cookies CSS End */
 }
