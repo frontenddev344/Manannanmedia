@@ -166,7 +166,7 @@ border-bottom:1px solid #fff ;
 }
 
 .fixed-header {
-  background-color: #192bc2;
+  background-color: #0075ff;
 }
 
 
@@ -762,7 +762,7 @@ margin-bottom: 5px;
   position: fixed;
   bottom: -100%;
   width: 100%;
-  background-color: #192bc2;
+  background-color: #0075ff;
   padding: 15px 25px 22px;
   transition: all 1s ease-in-out;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
@@ -815,3 +815,4 @@ margin-bottom: 5px;
 }
 
 /* Cookies CSS End */
+
