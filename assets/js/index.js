@@ -4,7 +4,7 @@ $(document).ready(function () {
     $(".menu-icon").click(function () {
       $("body").addClass("menuToggle");
     });
-    $(".close-icon,  .nav-link").click(function () {
+    $(".close-icon,  .nav-links").click(function () {
       $("body").removeClass("menuToggle");
     });
   });
