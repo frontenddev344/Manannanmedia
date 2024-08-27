@@ -133,6 +133,7 @@ colors
   font-weight: 500;
   font-size: 18px;
   position: relative;
+  border-bottom: 1px solid transparent;
 }
 
 
