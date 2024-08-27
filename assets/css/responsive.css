@@ -252,7 +252,9 @@
 		max-width: 270px;
 		margin: 0 auto;
 	}
-
+	.home-page-section3-wrapper #contact {
+		margin-top: 40px;
+	}
 	.home-page-section3-wrapper p {
 		font-size: 14px;
 	}
