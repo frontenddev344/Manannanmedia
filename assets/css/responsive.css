@@ -89,14 +89,17 @@
 	.home-page-section2-wrapper p {
 		font-size: 15px;
 	}
+
 	.home-page-section2-cards-content p {
 		max-width: 250px;
 		margin: 10px auto;
 		font-size: 14px;
 	}
+
 	.home-page-section2-cards-content h3 {
 		font-size: 29px;
 	}
+
 	.home-page-section3-wrapper p {
 		font-size: 15px;
 	}
@@ -106,6 +109,9 @@
 
 
 @media only screen and (max-width : 767px) {
+	.logo img {
+		max-width: 240px;
+	}
 
 	.home-contact-form-section #contact {
 		margin-top: 40px;
@@ -158,9 +164,11 @@
 	.home-page-section1-wrapper p {
 		font-size: 14px;
 	}
+
 	.home-page-s1-cards-image {
 		height: 100%px;
 	}
+
 	.home-page-s1-cards-text {
 		margin-top: 20px;
 	}
@@ -168,26 +176,34 @@
 	.home-page-section2-wrapper p {
 		font-size: 14px;
 	}
+
 	.home-page-section2-cards-content p {
 		max-width: 250px;
 		margin: 10px auto;
 		font-size: 14px;
 	}
+
 	.home-page-section2-cards-content h3 {
 		font-size: 29px;
 	}
+
 	.home-page-section3-wrapper p {
 		font-size: 14px;
 	}
+
 	.home-page-section3-wrapper #contact button[type="submit"] {
 		width: 30%;
-}
+	}
 }
 
 @media only screen and (max-width : 575px) {
 	h2.section-heading {
 		font-size: 35px;
 	}
+	.logo img {
+		max-width: 220px;
+	}
+
 
 	.menu-icon {
 		font-size: 22px;
@@ -234,6 +250,7 @@
 	.home-page-s1-cards {
 		padding: 15px;
 	}
+
 	.home-page-s1-cards-image {
 		height: 220px;
 	}
@@ -249,13 +266,16 @@
 	.home-page-section2-cards-content h3 {
 		font-size: 25px;
 	}
+
 	.s1-card-icons {
 		font-size: 25px;
 	}
+
 	.home-page-section2-cards-content p {
 		max-width: 300px;
-		margin:10px auto;
+		margin: 10px auto;
 	}
+
 	.home-page-section3-wrapper p {
 		font-size: 13px;
 	}
@@ -267,6 +287,9 @@
 		font-size: 30px;
 	}
 
+	.logo img {
+		max-width: 180px;
+	}
 
 	.banner-content h1 {
 		font-size: 30px;
@@ -321,13 +344,16 @@
 	.home-page-section2-cards-content h3 {
 		font-size: 20px;
 	}
+
 	.home-page-section2-cards-content p {
 		max-width: 280px;
-		margin:10px auto;
+		margin: 10px auto;
 	}
+
 	.home-page-section3-wrapper #contact button[type="submit"] {
-			width: 60%;
+		width: 60%;
 	}
+
 	.home-page-section3-wrapper p {
 		font-size: 12px;
 	}
