@@ -238,7 +238,9 @@
 	}
 
 	.home-page-section2-cards-content h3 {
-		font-size: 29px;
+		font-size: 26px;
+		max-width: 270px;
+		margin: 0 auto;
 	}
 
 	.home-page-section3-wrapper p {
