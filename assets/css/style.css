@@ -786,8 +786,6 @@ fieldset {
 .info p a {
   font-weight: 700;
   color: #fff;
-  border: 1px solid #fff;
-  padding: 5px;
   border-radius: 5px;
 }
 
