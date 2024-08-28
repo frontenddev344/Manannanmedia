@@ -223,7 +223,7 @@
 	#contact input[type="tel"],
 	#contact input[type="url"],
 	#contact textarea {
-		padding: 8px;
+		padding: 6px;
 		font-size: 13px;
 	}
 
