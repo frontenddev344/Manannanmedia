@@ -400,13 +400,10 @@
 		font-size: 13px;
 	}
 
-	#contact button[type="submit"] {
+		.home-page-section3-wrapper #contact button[type="submit"] {
+		width: 33%;
 		padding: 8px 20px;
 		font-size: 13px;
-		width: 33%;
-	}
-	.home-page-section3-wrapper #contact button[type="submit"] {
-		width: 33%;
 	}
 
 	.home-page-section1-wrapper p {
