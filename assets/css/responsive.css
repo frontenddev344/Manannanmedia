@@ -405,6 +405,9 @@
 		font-size: 13px;
 		width: 33%;
 	}
+	.home-page-section3-wrapper #contact button[type="submit"] {
+		width: 33%;
+	}
 
 	.home-page-section1-wrapper p {
 		font-size: 13px;
