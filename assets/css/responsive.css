@@ -576,7 +576,9 @@
 	.home-page-section1-wrapper p {
 		font-size: 12px;
 	}
-
+	.home-page-section2-cards {
+		border: 5px solid #fff;
+	}
 
 	.home-page-s1-cards-image {
 		height: 170px;
