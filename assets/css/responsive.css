@@ -65,7 +65,9 @@
 		padding: 8px 20px;
 		font-size: 15px;
 	}
-
+	.home-contact-form-section {
+		margin-right: 0px;
+	  }
 	#contact h3 {
 		font-size: 35px;
 		margin-bottom: 25px;
@@ -208,7 +210,7 @@
 		padding: 7px 20px;
 		font-size: 14px;
 	}
-
+	
 
 	#contact h3 {
 		font-size: 25px;
