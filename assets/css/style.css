@@ -447,7 +447,9 @@ fieldset {
   position: relative;
   overflow: hidden;
   border-radius: 10px;
+  border: 5px solid #fff;
 }
+
 
 .home-page-section2-cards-image {
   height: 100%;
