@@ -357,10 +357,9 @@
 	}
 
 	.banner-content h1 {
-		font-size: 35px;
-		max-width: 300px;
+		font-size: 50px;
+		max-width: 410px;
 	}
-
 	.banner-content h3 {
 		font-size: 21px;
 		max-width: 300px;
@@ -370,10 +369,15 @@
 		padding: 8px 20px;
 		font-size: 13px;
 	}
+	.home-contact-form-section {
+		max-width: 450px;
+		margin-left: 0;
+	}
 	.home-contact-form-section #contact {
 	margin-top: 40px;
 		padding: 15px;
 	}
+
 	.home-contact-form-section #contact button[type="submit"] {
 			padding: 8px 20px;
 		}
