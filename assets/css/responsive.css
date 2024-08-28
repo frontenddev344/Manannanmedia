@@ -2,7 +2,7 @@
 	h2.section-heading {
 		font-size: 40px;
 	}
-	
+
 
 	.main-navbar {
 		position: fixed;
@@ -30,9 +30,10 @@
 		flex-direction: column;
 
 	}
+
 	.main-navbar ul li a {
 		font-size: 15px;
-		}
+	}
 
 	.menu-icon {
 		display: block;
@@ -182,9 +183,11 @@
 		margin-top: 40px;
 		padding: 15px;
 	}
+
 	.main-navbar ul li a {
 		font-size: 15px;
-		}
+	}
+
 	.banner {
 		padding: 100px 0;
 	}
@@ -243,8 +246,9 @@
 	.home-page-section2-wrapper p {
 		font-size: 14px;
 	}
+
 	.home-page-section2-cards-image {
-			height: 290px;
+		height: 290px;
 	}
 
 	.home-page-section2-cards-content p {
@@ -258,9 +262,11 @@
 		max-width: 270px;
 		margin: 0 auto;
 	}
+
 	.home-page-section3-wrapper #contact {
 		margin-top: 40px;
 	}
+
 	.home-page-section3-wrapper p {
 		font-size: 14px;
 	}
@@ -489,6 +495,10 @@
 @media only screen and (max-width : 480px) {
 	h2.section-heading {
 		font-size: 30px;
+	}
+
+	.site-header {
+		padding: 5px 0;
 	}
 
 	.logo img {
