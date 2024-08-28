@@ -222,7 +222,7 @@ h2.section-heading {
   margin-bottom: 40px;
 }
 
-.btn {
+.butn {
   color: #fff;
   background: #0075ff;
   padding: 8px 30px;
@@ -236,7 +236,7 @@ h2.section-heading {
   transition: 0.5s all ease-in-out;
 }
 
-.btn:hover {
+.butn:hover {
   background: #fff;
   color: #000;
   border: 1px solid #0075ff;
@@ -304,9 +304,7 @@ fieldset {
 }
 .home-contact-form-section #contact button[type="submit"] {
   width: 65%;
-  padding: 8px 20px;
   cursor: pointer;
-  border: none;
   background-color: #0075ff;
   color: #FFF;
   margin: 10px 0 5px;
