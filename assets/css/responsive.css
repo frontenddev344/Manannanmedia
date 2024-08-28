@@ -249,6 +249,8 @@
 
 	.home-page-section2-wrapper p {
 		font-size: 14px;
+		max-width: 450px;
+		margin: 0 auto;
 	}
 
 	.home-page-section2-cards-image {
@@ -423,6 +425,8 @@
 
 	.home-page-section2-wrapper p {
 		font-size: 13px;
+		max-width: 400px;
+		margin: 0 auto;
 	}
 
 	.home-page-section2-cards-image {
@@ -580,6 +584,8 @@
 
 	.home-page-section2-wrapper p {
 		font-size: 12px;
+		max-width: 350px;
+		margin: 0 auto;
 	}
 
 	.home-page-section2-cards-image {
