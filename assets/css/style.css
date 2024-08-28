@@ -427,9 +427,22 @@ fieldset {
 
 .home-page-content-section2 {
   overflow: hidden;
+  background-image: url("../images/section2-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-color: rgba(0 0 0/70%);
+  background-blend-mode: multiply;
+
 }
-
-
+.home-page-section2-wrapper h2 {
+    color: #fff;
+}
+.home-page-section2-wrapper>p {
+  color: #fff;
+  font-weight: 500;
+  font-size: 20px;
+}
 .home-page-section2-cards {
   position: relative;
   overflow: hidden;
@@ -459,7 +472,7 @@ fieldset {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background-color: rgba(0 0 0/70%);
+  background-color: rgba(0 0 0/75%);
   background-blend-mode: multiply;
 }
 
