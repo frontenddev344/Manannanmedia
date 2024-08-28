@@ -308,7 +308,7 @@ fieldset {
   border: 1px solid #AAA;
 }
 .home-contact-form-section #contact button[type="submit"] {
-  width: 65%;
+  width: 50%;
   cursor: pointer;
   background-color: #0075ff;
   color: #FFF;
