@@ -218,6 +218,9 @@ h2.section-heading {
   max-width: 560px;
   margin-bottom: 30px;
 }
+.home-contact-form-section.aos-init.aos-animate {
+  margin-right: 50px;
+}
 
 .banner-content h3 {
   color: #fff;
