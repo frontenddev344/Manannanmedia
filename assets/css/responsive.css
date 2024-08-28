@@ -379,7 +379,7 @@
 	}
 	.banner .butn {
 		padding: 8px 20px;
-		font-size: 15px;
+		font-size: 14px;
 	}
 
 	.home-contact-form-section #contact button[type="submit"] {
@@ -533,14 +533,16 @@
 		max-width: 270px;
 	}
 
-	.butn {
+	.banner .butn {
 		padding: 7px 20px;
 		font-size: 12px;
 	}
 	
-	#contact button[type="submit"] {
+	.home-contact-form-section #contact button[type="submit"] {
 		padding: 7px 20px;
-		}
+		width: 40%;
+	}
+	
 
 	#contact {
 		padding: 20px;
@@ -580,6 +582,11 @@
 	.home-page-section2-cards-image {
 		height: 250px;
 	}
+	.home-page-section2-cards-content .butn  {
+		padding: 7px 20px;
+		font-size: 13px;
+	}
+	
 
 	.home-page-section2-cards-content h3 {
 		font-size: 20px;
@@ -592,6 +599,7 @@
 
 	.home-page-section3-wrapper #contact button[type="submit"] {
 		width: 140px;
+		padding: 7px 20px;
 	}
 
 	.home-page-section3-wrapper p {
