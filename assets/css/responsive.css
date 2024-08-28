@@ -61,7 +61,7 @@
 		max-width: 370px;
 	}
 
-	.btn {
+	.butn {
 		padding: 8px 20px;
 		font-size: 15px;
 	}
@@ -205,7 +205,7 @@
 		max-width: 350px;
 	}
 
-	.btn {
+	.butn {
 		padding: 8px 20px;
 		font-size: 14px;
 	}
@@ -364,10 +364,13 @@
 		max-width: 300px;
 	}
 
-	.btn {
+	.butn {
 		padding: 8px 20px;
 		font-size: 13px;
 	}
+	.home-contact-form-section #contact button[type="submit"] {
+			padding: 8px 20px;
+		}
 
 	#contact h3 {
 		font-size: 35px;
@@ -383,7 +386,7 @@
 	}
 
 	#contact button[type="submit"] {
-		padding: 7px 20px;
+		padding: 8px 20px;
 		font-size: 13px;
 		width: 30%;
 	}
@@ -515,9 +518,14 @@
 		max-width: 270px;
 	}
 
-	.btn {
+	.butn {
+		padding: 7px 20px;
 		font-size: 12px;
 	}
+	
+	#contact button[type="submit"] {
+		padding: 7px 20px;
+		}
 
 	#contact {
 		padding: 20px;

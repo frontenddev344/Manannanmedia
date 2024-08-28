@@ -209,7 +209,9 @@ h2.section-heading {
 .banner-wrapper {
   padding: 0 25px;
 }
-
+.banner-content{
+  width: 100%;
+}
 .banner-content h1 {
   color: #fff;
   font-size: 60px;
